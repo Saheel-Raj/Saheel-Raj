@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheel-raj&label=Profile%20views&color=0e75b6&style=flat" alt="saheel-raj" /> </p>
 
-- 🔭 I’m currently working on [my website](https://saheel-raj.github.io/portfolio/)
+- 🔭 I’m currently working on [my website]([https://saheel-raj.github.io/portfolio/])
 
-- 👨‍💻 All of my projects are available at [https://saheel-raj.github.io/portfolio/](https://saheel-raj.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://saheel-raj.github.io/portfolio/](https://saheel-raj.github.io/CodiT/)]
 
 - 📫 How to reach me **blockeeb@gmail.com**
 
